@@ -1,0 +1,18 @@
+{
+    "version": "0.1.0",
+    "summary": "Basic App in Elm that interact with an API",
+    "repository": "https://github.com/parecementeria/elming.git",
+    "license": "MIT",
+    "source-directories": [
+        "src",
+        "dist"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0",
+        "elm-lang/html": "2.0.0 <= v < 3.0.0",
+        "elm-lang/http": "1.0.0 <= v < 2.0.0",
+        "rgrempel/elm-http-decorators": "2.0.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.17.0 <= v <= 0.18.0"
+}
